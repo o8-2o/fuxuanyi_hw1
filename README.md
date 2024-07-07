@@ -28,7 +28,7 @@
 3 2 3.3
 ```
 
-- 输出2![屏幕截图 2024-07-07 192139](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 192139.png)
+- 输出2![屏幕截图 2024-07-07 192139]([D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 192139.png](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20192139.png))
 
 ## 矩阵减法
 
@@ -46,7 +46,7 @@
 
 - 输出1
 
- ![屏幕截图 2024-07-07 192824](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 192824.png)
+ ![屏幕截图 2024-07-07 192824](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20192824.png)
 
 - 输入2
 
@@ -62,7 +62,7 @@
 
 - 输出2
 
- ![屏幕截图 2024-07-07 200227](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 200227.png)
+ ![屏幕截图 2024-07-07 200227](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20200227.png)
 
 ## 矩阵乘法
 
@@ -82,9 +82,9 @@
 
 - 输出1
 
-  ![屏幕截图 2024-07-07 193013](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193013.png)
+  ![屏幕截图 2024-07-07 193013](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193013.png)
 
- ![屏幕截图 2024-07-07 193019](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193019.png)
+ ![屏幕截图 2024-07-07 193019](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193019.png)
 
 **检验后结果正确**
 
@@ -106,7 +106,7 @@
 
 - 输出2
 
- ![屏幕截图 2024-07-07 193124](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193124.png)
+ ![屏幕截图 2024-07-07 193124](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193124.png)
 
 - 输入3
 
@@ -125,7 +125,7 @@
 
 - 输出3
 
-![屏幕截图 2024-07-07 193155](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193155.png)
+![屏幕截图 2024-07-07 193155](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193155.png)
 
 ## 矩阵数乘
 
@@ -140,7 +140,7 @@
 
 - 输出
 
-![屏幕截图 2024-07-07 193526](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193526.png)
+![屏幕截图 2024-07-07 193526](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193526.png)
 
 ## 矩阵转置
 
@@ -157,7 +157,7 @@ t
 
 - 输出
 
-![屏幕截图 2024-07-07 193604](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193604.png)
+![屏幕截图 2024-07-07 193604](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193604.png)
 
 ## 行列式的值
 
@@ -174,7 +174,7 @@ d
 
 - 输出1
 
-![屏幕截图 2024-07-07 201556](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 201556.png)
+![屏幕截图 2024-07-07 201556](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20201556.png)
 
 - 输入2
 
@@ -189,7 +189,7 @@ d
 
 - 输出2
 
-![屏幕截图 2024-07-07 193757](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193757.png)
+![屏幕截图 2024-07-07 193757](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193757.png)
 
 ## 矩阵求逆
 
@@ -206,9 +206,9 @@ i
 
 - 输出1
 
-![屏幕截图 2024-07-07 193900](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193900.png)
+![屏幕截图 2024-07-07 193900](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193900.png)
 
-![屏幕截图 2024-07-07 193909](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193909.png)
+![屏幕截图 2024-07-07 193909](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193909.png)
 
 **检验正确**
 
@@ -225,7 +225,7 @@ i
 
 - 输出2
 
-![屏幕截图 2024-07-07 193933](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193933.png)
+![屏幕截图 2024-07-07 193933](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193933.png)
 
 ## 矩阵求秩
 
@@ -242,7 +242,7 @@ r
 
 - 输出1
 
-![屏幕截图 2024-07-07 193953](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 193953.png)
+![屏幕截图 2024-07-07 193953](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20193953.png)
 
 - 输入2
 
@@ -257,7 +257,7 @@ r
 
 - 输出2
 
-![屏幕截图 2024-07-07 194014](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 194014.png)
+![屏幕截图 2024-07-07 194014](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20194014.png)
 
 ## 矩阵求迹
 
@@ -274,7 +274,7 @@ j
 
 - 输出1
 
-![屏幕截图 2024-07-07 194248](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 194248.png)
+![屏幕截图 2024-07-07 194248](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20194248.png)
 
 - 输入2
 
@@ -289,7 +289,7 @@ j
 
 - 输出2
 
-![屏幕截图 2024-07-07 194326](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 194326.png)
+![屏幕截图 2024-07-07 194326](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20194326.png)
 
 ## 程序退出
 
