@@ -28,7 +28,7 @@
 3 2 3.3
 ```
 
-- 输出2![屏幕截图 2024-07-07 192139]([D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 192139.png](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20192139.png))
+- 输出2![屏幕截图 2024-07-07 192139](https://github.com/o8-2o/fuxuanyi_hw1/blob/ef1d713c38aae29c3ed916770ae8f96f96668660/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20192139.png)
 
 ## 矩阵减法
 
