@@ -14,7 +14,7 @@
 5.1 7.1
 ```
 
-- 输出1![屏幕截图 2024-07-07 192118](D:\WeChat Files\wxid_alfwru9s70ou22\FileStorage\File\2024-07\Fuxuanyi_hw1\Fuxuanyi_hw1\屏幕截图 2024-07-07 192118.png)
+- 输出1![屏幕截图 2024-07-07 192118](https://github.com/o8-2o/fuxuanyi_hw1/blob/1bea712a711abbb7fe9ea6abdd18074152f889bf/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20192118.png)
 
 - 输入2
 
